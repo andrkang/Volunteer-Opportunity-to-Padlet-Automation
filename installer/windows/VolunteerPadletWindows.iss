@@ -1,7 +1,7 @@
-#define AppName "Volunteer Padlet Automation"
+#define AppName "Harvest Opportunities"
 #define AppVersion "1.0.0"
 #define AppPublisher "Eastside Catholic School"
-#define AppExeName "Volunteer Padlet Automation.exe"
+#define AppExeName "Harvest Opportunities.exe"
 
 [Setup]
 AppId={{D0379295-7989-4F30-B861-464E0C276083}
@@ -13,7 +13,7 @@ DefaultGroupName={#AppName}
 DisableProgramGroupPage=yes
 PrivilegesRequired=lowest
 OutputDir=..\..\dist
-OutputBaseFilename=Volunteer Padlet Automation-Windows-Setup
+OutputBaseFilename=Harvest Opportunities-Windows-Setup
 SetupIconFile=..\..\generated_assets\app-icon.ico
 UninstallDisplayIcon={app}\{#AppExeName}
 Compression=lzma2/max
@@ -35,7 +35,7 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "desktopicon"; Description: "Create a &desktop shortcut"; GroupDescription: "Additional shortcuts:"; Flags: unchecked
 
 [Files]
-Source: "..\..\dist\Volunteer Padlet Automation\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "..\..\dist\Harvest Opportunities\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
 Name: "{group}\{#AppName}"; Filename: "{app}\{#AppExeName}"

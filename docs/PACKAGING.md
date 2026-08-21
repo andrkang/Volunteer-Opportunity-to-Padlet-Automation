@@ -30,8 +30,8 @@ chmod +x scripts/build_macos.sh
 
 Outputs:
 
-- `dist/Volunteer Padlet Automation.app`
-- `dist/Volunteer Padlet Automation-macOS.dmg`
+- `dist/Harvest Opportunities.app`
+- `dist/Harvest Opportunities-macOS.dmg`
 
 ## Windows Installer
 
@@ -45,7 +45,7 @@ The one-process execution-policy bypass does not change the machine's permanent 
 
 The script installs the Python packaging dependencies, builds the app, and invokes Inno Setup. The output is:
 
-- `dist\Volunteer Padlet Automation-Windows-Setup.exe`
+- `dist\Harvest Opportunities-Windows-Setup.exe`
 
 Python 3 and Inno Setup 6 must be installed on the Windows build machine:
 

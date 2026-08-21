@@ -1,6 +1,6 @@
 $ErrorActionPreference = "Stop"
 
-$AppName = "Volunteer Padlet Automation"
+$AppName = "Harvest Opportunities"
 $RootDir = Resolve-Path (Join-Path $PSScriptRoot "..")
 Set-Location $RootDir
 
@@ -53,21 +53,28 @@ Remove-Item -LiteralPath $AppDistDir -Recurse -Force -ErrorAction SilentlyContin
 Remove-Item -LiteralPath $ZipPath -Force -ErrorAction SilentlyContinue
 Remove-Item -LiteralPath $InstallerPath -Force -ErrorAction SilentlyContinue
 
-$env:PYINSTALLER_CONFIG_DIR = Join-Path $RootDir "build\pyinstaller-config"
-New-Item -ItemType Directory -Force $env:PYINSTALLER_CONFIG_DIR | Out-Null
+$PyInstallerConfigDir = Join-Path ([System.IO.Path]::GetTempPath()) "harvest-opportunities-pyinstaller-$PID"
+Remove-Item -LiteralPath $PyInstallerConfigDir -Recurse -Force -ErrorAction SilentlyContinue
+New-Item -ItemType Directory -Force $PyInstallerConfigDir | Out-Null
+$env:PYINSTALLER_CONFIG_DIR = $PyInstallerConfigDir
 
 Write-Host "Building the Windows application..."
-& $PythonExe @PythonArgs -m PyInstaller `
-  --noconfirm `
-  --clean `
-  --specpath "build" `
-  --windowed `
-  --name "$AppName" `
-  --icon "$IconPath" `
-  --add-data "$AssetsPath;generated_assets" `
-  "$EntryPoint"
-if ($LASTEXITCODE -ne 0) {
-  throw "PyInstaller failed to build the application."
+try {
+  & $PythonExe @PythonArgs -m PyInstaller `
+    --noconfirm `
+    --clean `
+    --specpath "build" `
+    --windowed `
+    --name "$AppName" `
+    --icon "$IconPath" `
+    --add-data "$AssetsPath;generated_assets" `
+    "$EntryPoint"
+  if ($LASTEXITCODE -ne 0) {
+    throw "PyInstaller failed to build the application."
+  }
+} finally {
+  Remove-Item -LiteralPath $PyInstallerConfigDir -Recurse -Force -ErrorAction SilentlyContinue
+  Remove-Item Env:PYINSTALLER_CONFIG_DIR -ErrorAction SilentlyContinue
 }
 
 $IsccCommand = Get-Command "ISCC.exe" -ErrorAction SilentlyContinue

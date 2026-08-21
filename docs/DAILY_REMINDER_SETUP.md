@@ -1,6 +1,6 @@
 # Daily Reminder Setup
 
-Use `daily_reminder.py` with the operating system scheduler. This shows a daily popup reminder to run the Volunteer Padlet app. It does not automatically open the app or update Padlet.
+Use `daily_reminder.py` with the operating system scheduler. This shows a daily popup reminder to run the Harvest Opportunities app. It does not automatically open the app or update Padlet.
 
 ## Windows
 
@@ -12,7 +12,7 @@ $Python = "python"
 $Script = Join-Path $Project "daily_reminder.py"
 
 schtasks /Create `
-  /TN "Volunteer Padlet Daily Reminder" `
+  /TN "Harvest Opportunities Daily Reminder" `
   /SC DAILY `
   /ST 08:00 `
   /TR "`"$Python`" `"$Script`"" `
@@ -24,13 +24,13 @@ Because this reminder shows a popup, configure the task to run only when the use
 To test it immediately:
 
 ```powershell
-schtasks /Run /TN "Volunteer Padlet Daily Reminder"
+schtasks /Run /TN "Harvest Opportunities Daily Reminder"
 ```
 
 To remove it:
 
 ```powershell
-schtasks /Delete /TN "Volunteer Padlet Daily Reminder" /F
+schtasks /Delete /TN "Harvest Opportunities Daily Reminder" /F
 ```
 
 ## macOS

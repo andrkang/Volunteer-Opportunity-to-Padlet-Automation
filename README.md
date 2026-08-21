@@ -1,4 +1,4 @@
-# Volunteer Padlet Automation
+# Harvest Opportunities
 
 Desktop helper for finding local volunteer opportunities and posting new ones to a Padlet board.
 

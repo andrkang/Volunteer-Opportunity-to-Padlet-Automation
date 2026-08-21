@@ -2,11 +2,11 @@
 
 The user-ready distribution is organized in:
 
-- `Volunteer Padlet Automation - Installers/START HERE.txt`
-- `Volunteer Padlet Automation - Installers/Windows/Volunteer Padlet Automation Setup.exe`
-- `Volunteer Padlet Automation - Installers/macOS/Volunteer Padlet Automation.dmg`
+- `Harvest Opportunities - Installers/START HERE.txt`
+- `Harvest Opportunities - Installers/Windows/Harvest Opportunities Setup.exe`
+- `Harvest Opportunities - Installers/macOS/Harvest Opportunities.dmg`
 
-Share the generated `Volunteer Padlet Automation - Windows and macOS Installers.zip`
+Share the generated `Harvest Opportunities - Windows and macOS Installers.zip`
 when both platforms should be distributed together.
 
 Installer binaries and ZIP archives are ignored by Git and should be uploaded

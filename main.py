@@ -51,7 +51,7 @@ def getAppDataPath():
     else:
         basePath = Path(os.environ.get("XDG_CONFIG_HOME", Path.home() / ".config"))
 
-    appDataPath = basePath / "Volunteer Padlet Automation"
+    appDataPath = basePath / "Harvest Opportunities"
     appDataPath.mkdir(parents=True, exist_ok=True)
     return appDataPath
 
@@ -127,8 +127,23 @@ defaultEventColors = {
     "field": inputColor,
 }
 
-windowTitle = "Padlet Volunteer Automation"
+windowTitle = "Harvest Opportunities"
 windowGeometry = "1280x760+160+160"
+userAgreementText = """Harvest Opportunities User Agreement
+
+Last updated: August 21, 2026
+
+By using Harvest Opportunities, you agree to the following:
+
+1. Purpose. This app helps you review volunteer opportunities from public volunteer feeds and publish selected opportunities to a Padlet board.
+2. Review before publishing. You are responsible for reviewing all event titles, dates, locations, descriptions, links, and other details before publishing anything to Padlet.
+3. Padlet access. Only use Padlet API keys and board IDs that you are authorized to use. Your use of Padlet remains subject to Padlet's own terms and policies.
+4. Local credential storage. If you choose to save your Padlet API key and board ID, they are stored locally on this computer in the app settings file. You are responsible for keeping your device and account secure.
+5. Third-party information. Volunteer opportunity details come from outside sources and may be incomplete, outdated, changed, or incorrect. Confirm important details with the organization hosting the opportunity.
+6. School and privacy rules. If you use this app for a school, club, nonprofit, or organization, you are responsible for following that organization's rules, privacy requirements, and approval process.
+7. No guarantee. This app is provided as-is, without a guarantee that it will always be available, error-free, or suitable for every use.
+8. Open-source privacy note. This app does not send your saved Padlet details to the app author. It only uses your information locally and when contacting Padlet or volunteer data sources needed for the app to work.
+9. Acceptance. Checking the box below confirms that you have read and agree to this user agreement."""
 
 
 # ----------------------------
@@ -693,7 +708,7 @@ def main():
 
     titleLabel = tk.Label(
         headingTextFrame,
-        text="Volunteer Padlet Automation",
+        text="Harvest Opportunities",
         font=fontTitle,
         fg=textColor,
         bg=bgColor,
@@ -762,21 +777,123 @@ def main():
     # We use a BooleanVar so maintainers can check state if needed.
     userAgreementVar = tk.BooleanVar(root, value=savedAgreementAccepted)
 
-    userAgreement = tk.Checkbutton(
-        appFrame,
-        text=(
-            "Check the box to continue. Checking the box means that you agree with the user agreement."
-        ),
+    def openUserAgreement():
+        agreementWindow = tk.Toplevel(root)
+        agreementWindow.title("User Agreement")
+        agreementWindow.geometry("760x520+220+180")
+        agreementWindow.configure(bg=bgColor)
+        agreementWindow.transient(root)
+
+        agreementWindowFrame = tk.Frame(
+            agreementWindow,
+            bg=appSurfaceColor,
+            padx=18,
+            pady=18,
+        )
+        agreementWindowFrame.pack(fill="both", expand=True, padx=18, pady=18)
+        agreementWindowFrame.grid_columnconfigure(0, weight=1)
+        agreementWindowFrame.grid_rowconfigure(1, weight=1)
+
+        tk.Label(
+            agreementWindowFrame,
+            text="User Agreement",
+            font=fontLabel,
+            fg=textColor,
+            bg=appSurfaceColor,
+        ).grid(row=0, column=0, columnspan=2, sticky="W", pady=(0, 10))
+
+        agreementBody = tk.Text(
+            agreementWindowFrame,
+            wrap="word",
+            font=fontSmall,
+            fg=inputTextColor,
+            bg=inputColor,
+            bd=0,
+            padx=12,
+            pady=10,
+        )
+        agreementBody.insert("1.0", userAgreementText)
+        agreementBody.configure(state="disabled")
+        agreementBody.grid(row=1, column=0, sticky="NSEW")
+
+        agreementBodyScrollbar = tk.Scrollbar(
+            agreementWindowFrame,
+            orient="vertical",
+            command=agreementBody.yview,
+        )
+        agreementBodyScrollbar.grid(row=1, column=1, sticky="NS")
+        agreementBody.configure(yscrollcommand=agreementBodyScrollbar.set)
+
+        closeButton = tk.Button(
+            agreementWindowFrame,
+            text="Close",
+            font=fontSmallButton,
+            fg=textColor,
+            bg=buttonColor,
+            activeforeground=textColor,
+            activebackground=buttonHoverColor,
+            command=agreementWindow.destroy,
+            padx=12,
+            pady=6,
+        )
+        closeButton.grid(row=2, column=0, columnspan=2, sticky="E", pady=(12, 0))
+
+    agreementFrame = tk.Frame(appFrame, bg=appSurfaceColor, padx=18, pady=18, bd=1, relief="solid")
+    agreementFrame.grid_columnconfigure(0, weight=1)
+
+    tk.Label(
+        agreementFrame,
+        text="Before you continue",
         font=fontLabel,
         fg=textColor,
-        bg=bgColor,
-        activebackground=bgColor,
+        bg=appSurfaceColor,
+    ).grid(row=0, column=0, sticky="W", pady=(0, 8))
+
+    tk.Label(
+        agreementFrame,
+        text="Please read the agreement before using the app.",
+        font=fontBody,
+        fg=mutedTextColor,
+        bg=appSurfaceColor,
+    ).grid(row=1, column=0, sticky="W", pady=(0, 12))
+
+    agreementAcceptRow = tk.Frame(agreementFrame, bg=appSurfaceColor)
+    agreementAcceptRow.grid(row=2, column=0, sticky="W")
+
+    userAgreement = tk.Checkbutton(
+        agreementAcceptRow,
+        text="I have read and agree to the",
+        font=fontLabel,
+        fg=textColor,
+        bg=appSurfaceColor,
+        activebackground=appSurfaceColor,
         activeforeground=textColor,
-        selectcolor=bgColor,
+        selectcolor=appSurfaceColor,
         variable=userAgreementVar,
     )
+    userAgreement.pack(side="left")
+
+    userAgreementLink = tk.Label(
+        agreementAcceptRow,
+        text="user agreement",
+        font=(fontFamily, 16, "bold underline"),
+        fg=warningColor,
+        bg=appSurfaceColor,
+        cursor="hand2",
+    )
+    userAgreementLink.pack(side="left", padx=(4, 0))
+    userAgreementLink.bind("<Button-1>", lambda event: openUserAgreement())
+
+    tk.Label(
+        agreementAcceptRow,
+        text=".",
+        font=fontLabel,
+        fg=textColor,
+        bg=appSurfaceColor,
+    ).pack(side="left")
+
     if not savedAgreementAccepted:
-        userAgreement.pack(anchor="w", pady=(0, 18))
+        agreementFrame.pack(fill="x", pady=(0, 18))
 
     # ----------------------------
     # API entry panel
@@ -1109,6 +1226,12 @@ def main():
                 insertbackground=inputTextColor,
             )
             addFieldFocusStyle(eventEntry, fieldColor, inputFocusColor)
+            if fieldName == "date":
+                eventEntry.configure(
+                    state="readonly",
+                    readonlybackground=fieldColor,
+                    cursor="arrow",
+                )
             eventEntry.grid(row=fieldIndex, column=1, sticky="EW", pady=(0, 8))
 
         tk.Label(
@@ -1172,7 +1295,7 @@ def main():
 
         setStatus(
             f"{len(volunteerDict)} new volunteer opportunities found. "
-            "Edit the event details below, then update Padlet. Links are locked to prevent duplicates."
+            "Edit the event details below, then update Padlet. Dates and links are locked to prevent errors."
         )
         for rowNumber, (title, item) in enumerate(volunteerDict.items()):
             addEditableEvent(rowNumber, title, item)
@@ -1203,7 +1326,7 @@ def main():
         """Reveals the API and results panels once the user checks the box."""
         if userAgreementVar.get():
             saveAgreementAccepted()
-            userAgreement.pack_forget()
+            agreementFrame.pack_forget()
             apiFrame.pack(fill="x", pady=(0, 18))
             volunteerTextFrame.pack(fill="both", expand=True, pady=(0, 10))
         else:

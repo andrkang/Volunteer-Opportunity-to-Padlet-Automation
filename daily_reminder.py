@@ -1,4 +1,4 @@
-"""Show a daily reminder to run the Volunteer Padlet app.
+"""Show a daily reminder to run the Harvest Opportunities app.
 
 This script is meant to be called by the operating system scheduler:
 - Windows Task Scheduler
@@ -14,8 +14,8 @@ from tkinter import messagebox
 
 
 APP_DIR = Path(__file__).resolve().parent
-TITLE = "Volunteer Padlet Reminder"
-MESSAGE = f"Please run the Volunteer Padlet app today.\n\nApp folder:\n{APP_DIR}"
+TITLE = "Harvest Opportunities Reminder"
+MESSAGE = f"Please run the Harvest Opportunities app today.\n\nApp folder:\n{APP_DIR}"
 
 
 def show_reminder():

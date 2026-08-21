@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for taking the time to improve Volunteer Padlet Automation.
+Thanks for taking the time to improve Harvest Opportunities.
 
 ## Local Setup
 

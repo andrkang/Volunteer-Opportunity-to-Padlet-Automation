@@ -1,7 +1,7 @@
-#define MyAppName "Volunteer Padlet Automation"
+#define MyAppName "Harvest Opportunities"
 #define MyAppVersion "1.0.0"
 #define MyAppPublisher "Eastside Catholic School"
-#define MyAppExeName "Volunteer Padlet Automation.exe"
+#define MyAppExeName "Harvest Opportunities.exe"
 
 [Setup]
 AppId={{E65E5291-9037-4921-AE99-8FB7A9300FB1}
@@ -12,7 +12,7 @@ DefaultDirName={autopf}\{#MyAppName}
 DefaultGroupName={#MyAppName}
 DisableProgramGroupPage=yes
 OutputDir=..\..\dist
-OutputBaseFilename=Volunteer Padlet Automation-Windows-Setup
+OutputBaseFilename=Harvest Opportunities-Windows-Setup
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern
