@@ -4,6 +4,8 @@ Desktop helper for finding local volunteer opportunities and posting new ones to
 
 The app reads Seattle volunteer opportunities from a Trumba RSS feed and Sammamish opportunities from Galaxy Digital, filters out duplicate, incomplete, and past events, then creates Padlet posts for the remaining opportunities. It is built as a small Tkinter desktop app so non-technical users can preview opportunities before publishing them.
 
+Visit this Youtube video for instructions: https://youtu.be/zdGP5_BhiaA
+
 ## Features
 
 - Fetches Seattle and Sammamish volunteer opportunities.
