@@ -11,6 +11,7 @@ Visit this Youtube video for instructions: https://youtu.be/zdGP5_BhiaA
 - Fetches Seattle and Sammamish volunteer opportunities.
 - Filters duplicate source links and existing Padlet posts.
 - Skips incomplete or past opportunities.
+- Optionally skips Monday-Friday opportunities while keeping Washington legal holidays available.
 - Adds Padlet post colors by city.
 - Optionally stores Padlet credentials in the user's local app-data folder.
 - Includes scripts for building macOS and Windows installers.
@@ -74,4 +75,3 @@ Before publishing this repository publicly, check the Git history for secrets if
 - Confirm no credentials, local settings, packaged apps, or installer outputs are tracked.
 - Build release artifacts from a clean checkout.
 - Add screenshots or a short demo GIF if the GitHub repository will be shared with end users.
-

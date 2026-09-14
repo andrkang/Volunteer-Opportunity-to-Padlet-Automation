@@ -15,7 +15,7 @@ import json
 import os
 import sys
 import webbrowser
-from datetime import datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from daily_reminder import show_reminder
 from padletAutomation import (
@@ -51,9 +51,7 @@ def getAppDataPath():
     else:
         basePath = Path(os.environ.get("XDG_CONFIG_HOME", Path.home() / ".config"))
 
-    appDataPath = basePath / "Harvest Opportunities"
-    appDataPath.mkdir(parents=True, exist_ok=True)
-    return appDataPath
+    return basePath / "Harvest Opportunities"
 
 
 baseUrl = 'https://api.padlet.dev/v1'
@@ -203,7 +201,71 @@ def isFutureOrTodayOpportunity(item, today=None):
     return parsedDate.date() >= today
 
 
-def filterVolunteerItemsForDisplay(volunteerDict, opportunityLimit, existingUrls=None):
+def getWashingtonLegalHolidays(year):
+    """Returns Washington's fixed, floating, and observed legal holidays."""
+    def nthWeekday(month, weekday, occurrence):
+        firstOfMonth = date(year, month, 1)
+        daysUntilWeekday = (weekday - firstOfMonth.weekday()) % 7
+        return firstOfMonth + timedelta(days=daysUntilWeekday + 7 * (occurrence - 1))
+
+    def lastWeekday(month, weekday):
+        firstOfNextMonth = date(year + (month == 12), month % 12 + 1, 1)
+        lastOfMonth = firstOfNextMonth - timedelta(days=1)
+        daysSinceWeekday = (lastOfMonth.weekday() - weekday) % 7
+        return lastOfMonth - timedelta(days=daysSinceWeekday)
+
+    thanksgiving = nthWeekday(11, 3, 4)
+    holidays = {
+        date(year, 1, 1),
+        nthWeekday(1, 0, 3),
+        nthWeekday(2, 0, 3),
+        lastWeekday(5, 0),
+        date(year, 6, 19),
+        date(year, 7, 4),
+        nthWeekday(9, 0, 1),
+        date(year, 11, 11),
+        thanksgiving,
+        thanksgiving + timedelta(days=1),
+        date(year, 12, 25),
+    }
+
+    # RCW 1.16.050 observes Saturday holidays on Friday and Sunday holidays on Monday.
+    observedHolidays = set()
+    for holiday in holidays:
+        if holiday.weekday() == 5:
+            observedHolidays.add(holiday - timedelta(days=1))
+        elif holiday.weekday() == 6:
+            observedHolidays.add(holiday + timedelta(days=1))
+    return holidays | observedHolidays
+
+
+def isWashingtonLegalHoliday(day):
+    """Checks adjacent holiday years so New Year's observance can cross years."""
+    return any(
+        day in getWashingtonLegalHolidays(year)
+        for year in (day.year - 1, day.year, day.year + 1)
+    )
+
+
+def isSchoolDayOpportunity(item):
+    """Treats weekdays as school days, except Washington legal holidays."""
+    parsedDate = parseFlexibleDate(str(item.get("date", "")))
+    if parsedDate.year == 9999:
+        return False
+
+    opportunityDate = parsedDate.date()
+    return (
+        opportunityDate.weekday() < 5
+        and not isWashingtonLegalHoliday(opportunityDate)
+    )
+
+
+def filterVolunteerItemsForDisplay(
+    volunteerDict,
+    opportunityLimit,
+    existingUrls=None,
+    skipSchooldays=False,
+):
     existingUrls = existingUrls or set()
     filteredVolunteerDict = {}
     seenSourceUrls = set()
@@ -215,6 +277,8 @@ def filterVolunteerItemsForDisplay(volunteerDict, opportunityLimit, existingUrls
         if not isCompleteOpportunity(title, item):
             continue
         if not isFutureOrTodayOpportunity(item):
+            continue
+        if skipSchooldays and isSchoolDayOpportunity(item):
             continue
         if normalizedLink in seenSourceUrls:
             continue
@@ -251,13 +315,28 @@ def fetchSourceVolunteerItems(selectedCities):
     return sortOpportunitiesByDate(volunteerDict)
 
 
-def fetchNewVolunteerItems(apiKey, boardId, opportunityLimit, selectedCities):
+def fetchNewVolunteerItems(
+    apiKey,
+    boardId,
+    opportunityLimit,
+    selectedCities,
+    skipSchooldays=False,
+):
     """Checks the most recent valid source opportunities and returns only new ones."""
     volunteerDict = fetchSourceVolunteerItems(selectedCities)
     posts = getPostFromPadlet(apiKey, baseUrl, boardId)
     postUrlSet = getPadletPostUrls(posts)
-    recentVolunteerDict = filterVolunteerItemsForDisplay(volunteerDict, opportunityLimit)
-    return filterVolunteerItemsForDisplay(recentVolunteerDict, opportunityLimit, postUrlSet)
+    recentVolunteerDict = filterVolunteerItemsForDisplay(
+        volunteerDict,
+        opportunityLimit,
+        skipSchooldays=skipSchooldays,
+    )
+    return filterVolunteerItemsForDisplay(
+        recentVolunteerDict,
+        opportunityLimit,
+        postUrlSet,
+        skipSchooldays=skipSchooldays,
+    )
 
 
 def buildPostBody(date, location, description):
@@ -344,7 +423,13 @@ def ensureColorGuidePost(apiKey, boardId, boardPosts, dateCustomFieldId):
     return True
 
 
-def publishVolunteerEvents(apiKey, boardId, events, opportunityLimit):
+def publishVolunteerEvents(
+    apiKey,
+    boardId,
+    events,
+    opportunityLimit,
+    skipSchooldays=False,
+):
     boardJson = getBoardFromPadlet(apiKey, baseUrl, boardId)
     boardPosts = [obj for obj in boardJson.get("included", []) if obj.get("type") == "post"]
     existingUrls = getPadletPostUrls(boardPosts)
@@ -376,6 +461,9 @@ def publishVolunteerEvents(apiKey, boardId, events, opportunityLimit):
             skippedCount += 1
             continue
         if not isFutureOrTodayOpportunity(event):
+            skippedCount += 1
+            continue
+        if skipSchooldays and isSchoolDayOpportunity(event):
             skippedCount += 1
             continue
         if normalizedLink and normalizedLink in existingUrls:
@@ -485,6 +573,7 @@ def writeSavedSettings(savedSettings):
         deleteSavedSettings()
         return
 
+    settingsPath.parent.mkdir(parents=True, exist_ok=True)
     settingsPath.write_text(json.dumps(savedSettings, indent=2), encoding="utf-8")
     try:
         settingsPath.chmod(0o600)
@@ -685,6 +774,7 @@ def main():
     opportunityLimitVar = tk.StringVar(root, value="20")
     seattleSelectedVar = tk.BooleanVar(root, value=True)
     sammamishSelectedVar = tk.BooleanVar(root, value=True)
+    skipSchooldaysVar = tk.BooleanVar(root, value=False)
     savedApiKey, savedBoardId = loadSavedCredentials()
     savedAgreementAccepted = loadSavedAgreement()
     apiKeyVar.set(savedApiKey)
@@ -1004,8 +1094,27 @@ def main():
     )
     sammamishCheckbox.pack(side="left")
 
+    skipSchooldaysCheckbox = tk.Checkbutton(
+        apiFrame,
+        text="Skip weekdays\n(keep Washington legal holidays)",
+        anchor="w",
+        justify="left",
+        font=fontBodyBold,
+        fg=textColor,
+        bg=appSurfaceColor,
+        activebackground=appSurfaceColor,
+        activeforeground=textColor,
+        selectcolor=appSurfaceColor,
+        variable=skipSchooldaysVar,
+    )
+    skipSchooldaysCheckbox.grid(row=5, column=1, sticky="EW", pady=(0, 12))
+    skipSchooldaysCheckbox.bind(
+        "<Configure>",
+        lambda event: skipSchooldaysCheckbox.configure(wraplength=max(1, event.width - 40)),
+    )
+
     cityLegendFrame = tk.Frame(apiFrame, bg=appSurfaceColor)
-    cityLegendFrame.grid(row=5, column=1, sticky="W", pady=(0, 10))
+    cityLegendFrame.grid(row=6, column=1, sticky="W", pady=(0, 10))
 
     def addCityLegend(parent, cityName):
         legendItem = tk.Frame(parent, bg=appSurfaceColor)
@@ -1063,7 +1172,7 @@ def main():
         wraplength=900,
         justify="left",
     )
-    disclaimerLabel.grid(row=8, column=0, columnspan=3, sticky="W", pady=(12, 0))
+    disclaimerLabel.grid(row=9, column=0, columnspan=3, sticky="W", pady=(12, 0))
 
     # ----------------------------
     # Volunteer results panel
@@ -1362,7 +1471,13 @@ def main():
 
         setBusy(True, "Checking Padlet and volunteer sources...")
         try:
-            volunteerDict = fetchNewVolunteerItems(apiKey, board_Id, opportunityLimit, selectedCities)
+            volunteerDict = fetchNewVolunteerItems(
+                apiKey,
+                board_Id,
+                opportunityLimit,
+                selectedCities,
+                skipSchooldaysVar.get(),
+            )
             renderEditableEvents(volunteerDict)
         except Exception as exc:  # noqa: BLE001 (GUI wants a user-friendly error)
             showStatusOnly(formatPadletError("Could not check volunteer opportunities", exc))
@@ -1375,7 +1490,7 @@ def main():
 
     submitButton = createActionButton(apiFrame, "Display Volunteer Opportunities", onSubmit)
     actionButtons.append(submitButton)
-    submitButton.grid(row=6, column=1, sticky="W", pady=(14, 0))
+    submitButton.grid(row=7, column=1, sticky="W", pady=(14, 0))
 
     def updatePadlet():
         apiKey = apiKeyVar.get().strip()
@@ -1401,6 +1516,7 @@ def main():
                 board_Id,
                 editedEvents,
                 opportunityLimit,
+                skipSchooldaysVar.get(),
             )
             showStatusOnly(formatPublishResult(guideCreated, createdCount, skippedCount))
         except Exception as exc:  # noqa: BLE001 (GUI wants a user-friendly error)
@@ -1410,7 +1526,7 @@ def main():
 
     updatePadletButton = createActionButton(apiFrame, "Update Padlet Board", updatePadlet)
     actionButtons.append(updatePadletButton)
-    updatePadletButton.grid(row=7, column=1, sticky="W", pady=(10, 0))
+    updatePadletButton.grid(row=8, column=1, sticky="W", pady=(10, 0))
 
     def runDirectDeveloperUpdate():
         apiKey = apiKeyVar.get().strip()
@@ -1436,7 +1552,13 @@ def main():
 
         setBusy(True, "Developer mode: fetching opportunities and updating Padlet without editing...")
         try:
-            volunteerDict = fetchNewVolunteerItems(apiKey, board_Id, opportunityLimit, selectedCities)
+            volunteerDict = fetchNewVolunteerItems(
+                apiKey,
+                board_Id,
+                opportunityLimit,
+                selectedCities,
+                skipSchooldaysVar.get(),
+            )
             events = [
                 {
                     **item,
@@ -1449,6 +1571,7 @@ def main():
                 board_Id,
                 events,
                 opportunityLimit,
+                skipSchooldaysVar.get(),
             )
             showStatusOnly(formatPublishResult(guideCreated, createdCount, skippedCount))
         except Exception as exc:  # noqa: BLE001 (GUI wants a user-friendly error)
