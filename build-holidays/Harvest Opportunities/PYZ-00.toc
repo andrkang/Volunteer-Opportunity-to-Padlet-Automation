@@ -1,0 +1,2468 @@
+('C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+ 'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\build-holidays\\Harvest '
+ 'Opportunities\\PYZ-00.pyz',
+ [('__future__',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\_markupbase.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bs4',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4._deprecation',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\bs4\\_deprecation.py',
+   'PYMODULE'),
+  ('bs4._typing',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\bs4\\_typing.py',
+   'PYMODULE'),
+  ('bs4._warnings',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\bs4\\_warnings.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('bs4.css',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\bs4\\css.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.exceptions',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\bs4\\exceptions.py',
+   'PYMODULE'),
+  ('bs4.filter',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\bs4\\filter.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\bs4\\formatter.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\certifi\\core.py',
+   'PYMODULE'),
+  ('cgi',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\cgi.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('daily_reminder',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\daily_reminder.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\dis.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('distutils.command.build',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\doctest.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('feedparser',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\__init__.py',
+   'PYMODULE'),
+  ('feedparser.api',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\api.py',
+   'PYMODULE'),
+  ('feedparser.datetimes',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\datetimes\\__init__.py',
+   'PYMODULE'),
+  ('feedparser.datetimes.asctime',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\datetimes\\asctime.py',
+   'PYMODULE'),
+  ('feedparser.datetimes.greek',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\datetimes\\greek.py',
+   'PYMODULE'),
+  ('feedparser.datetimes.hungarian',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\datetimes\\hungarian.py',
+   'PYMODULE'),
+  ('feedparser.datetimes.iso8601',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\datetimes\\iso8601.py',
+   'PYMODULE'),
+  ('feedparser.datetimes.korean',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\datetimes\\korean.py',
+   'PYMODULE'),
+  ('feedparser.datetimes.perforce',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\datetimes\\perforce.py',
+   'PYMODULE'),
+  ('feedparser.datetimes.rfc822',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\datetimes\\rfc822.py',
+   'PYMODULE'),
+  ('feedparser.datetimes.w3dtf',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\datetimes\\w3dtf.py',
+   'PYMODULE'),
+  ('feedparser.encodings',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\encodings.py',
+   'PYMODULE'),
+  ('feedparser.exceptions',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\exceptions.py',
+   'PYMODULE'),
+  ('feedparser.html',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\html.py',
+   'PYMODULE'),
+  ('feedparser.http',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\http.py',
+   'PYMODULE'),
+  ('feedparser.mixin',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\mixin.py',
+   'PYMODULE'),
+  ('feedparser.namespaces',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\namespaces\\__init__.py',
+   'PYMODULE'),
+  ('feedparser.namespaces._base',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\namespaces\\_base.py',
+   'PYMODULE'),
+  ('feedparser.namespaces.cc',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\namespaces\\cc.py',
+   'PYMODULE'),
+  ('feedparser.namespaces.dc',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\namespaces\\dc.py',
+   'PYMODULE'),
+  ('feedparser.namespaces.georss',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\namespaces\\georss.py',
+   'PYMODULE'),
+  ('feedparser.namespaces.itunes',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\namespaces\\itunes.py',
+   'PYMODULE'),
+  ('feedparser.namespaces.mediarss',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\namespaces\\mediarss.py',
+   'PYMODULE'),
+  ('feedparser.namespaces.psc',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\namespaces\\psc.py',
+   'PYMODULE'),
+  ('feedparser.parsers',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('feedparser.parsers.loose',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\parsers\\loose.py',
+   'PYMODULE'),
+  ('feedparser.parsers.strict',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\parsers\\strict.py',
+   'PYMODULE'),
+  ('feedparser.sanitizer',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\sanitizer.py',
+   'PYMODULE'),
+  ('feedparser.sgml',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\sgml.py',
+   'PYMODULE'),
+  ('feedparser.urls',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\urls.py',
+   'PYMODULE'),
+  ('feedparser.util',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser\\util.py',
+   'PYMODULE'),
+  ('feedparser_sgmllib',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser_sgmllib\\__init__.py',
+   'PYMODULE'),
+  ('feedparser_sgmllib._compat',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\feedparser_sgmllib\\_compat.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html.parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\html\\parser.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lxml',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\__init__.py',
+   'PYMODULE'),
+  ('lxml.ElementInclude',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\ElementInclude.py',
+   'PYMODULE'),
+  ('lxml.cssselect',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\cssselect.py',
+   'PYMODULE'),
+  ('lxml.doctestcompare',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\doctestcompare.py',
+   'PYMODULE'),
+  ('lxml.html',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\html\\__init__.py',
+   'PYMODULE'),
+  ('lxml.html.ElementSoup',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\html\\ElementSoup.py',
+   'PYMODULE'),
+  ('lxml.html._diffcommand',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\html\\_diffcommand.py',
+   'PYMODULE'),
+  ('lxml.html._html5builder',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\html\\_html5builder.py',
+   'PYMODULE'),
+  ('lxml.html._setmixin',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\html\\_setmixin.py',
+   'PYMODULE'),
+  ('lxml.html.builder',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\html\\builder.py',
+   'PYMODULE'),
+  ('lxml.html.clean',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\html\\clean.py',
+   'PYMODULE'),
+  ('lxml.html.defs',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\html\\defs.py',
+   'PYMODULE'),
+  ('lxml.html.formfill',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\html\\formfill.py',
+   'PYMODULE'),
+  ('lxml.html.html5parser',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\html\\html5parser.py',
+   'PYMODULE'),
+  ('lxml.html.soupparser',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\html\\soupparser.py',
+   'PYMODULE'),
+  ('lxml.html.usedoctest',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\html\\usedoctest.py',
+   'PYMODULE'),
+  ('lxml.includes',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\includes\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.extlibs',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\includes\\extlibs\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libexslt',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\includes\\libexslt\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libxml',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\includes\\libxml\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libxslt',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\includes\\libxslt\\__init__.py',
+   'PYMODULE'),
+  ('lxml.isoschematron',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\isoschematron\\__init__.py',
+   'PYMODULE'),
+  ('lxml.pyclasslookup',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\pyclasslookup.py',
+   'PYMODULE'),
+  ('lxml.usedoctest',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\lxml\\usedoctest.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mainFunction',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\mainFunction.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\optparse.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._ranges',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\packaging\\_ranges.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.licenses',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\packaging\\licenses\\__init__.py',
+   'PYMODULE'),
+  ('packaging.licenses._spdx',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\packaging\\licenses\\_spdx.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.ranges',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\packaging\\ranges.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\packaging\\version.py',
+   'PYMODULE'),
+  ('padletAutomation',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\padletAutomation.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\platform.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\random.py',
+   'PYMODULE'),
+  ('requests',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests._types',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\requests\\_types.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\requests\\utils.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('setuptools',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._core_metadata',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_core_metadata.py',
+   'PYMODULE'),
+  ('setuptools._discovery',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_discovery.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils._dataclass',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\_dataclass.py',
+   'PYMODULE'),
+  ('setuptools._distutils._log',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\_log.py',
+   'PYMODULE'),
+  ('setuptools._distutils._macos_compat',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\_macos_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils._modified',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command._framework_compat',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\_framework_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_dumb',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\bdist_dumb.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_rpm',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_clib',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_py',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_scripts',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.check',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\check.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.clean',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\clean.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.config',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\config.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_data',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_egg_info',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\install_egg_info.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_headers',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_lib',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\install_lib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_scripts',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.numpy',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\compat\\numpy.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.py310',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C.base',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\compilers\\C\\base.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.cygwin',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\compilers\\C\\cygwin.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.errors',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\compilers\\C\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.msvc',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\compilers\\C\\msvc.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.unix',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\compilers\\C\\unix.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.zos',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\compilers\\C\\zos.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers._modified',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\compilers\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers._util',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\compilers\\_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.errors',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\compilers\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.logging',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\compilers\\logging.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.platform', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.platform.detect',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\compilers\\platform\\detect.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.platform.macos',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\compilers\\platform\\macos.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cygwinccompiler',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dep_util',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\dep_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.unixccompiler',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('setuptools._distutils.zosccompiler',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_distutils\\zosccompiler.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._normalization',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_normalization.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._shutil',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_shutil.py',
+   'PYMODULE'),
+  ('setuptools._static',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_static.py',
+   'PYMODULE'),
+  ('setuptools._vendor', '-', 'PYMODULE'),
+  ('setuptools._vendor.backports',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\backports\\tarfile\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\backports\\tarfile\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat.py38',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco', '-', 'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\jaraco\\context\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\jaraco\\functools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._elffile',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._parser',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._tokenizer',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\wheel\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.macosx_libfile',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\wheel\\macosx_libfile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.wheelfile',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\_vendor\\wheel\\wheelfile.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command._requirestxt',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\command\\_requirestxt.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_wheel',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\command\\bdist_wheel.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.compat',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.compat.py310',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools.compat.py311',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools.compat.py39',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.warnings',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\warnings.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\signal.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('soupsieve',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.pretty',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\soupsieve\\pretty.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\soupsieve\\util.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tomllib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tomllib\\__init__.py',
+   'PYMODULE'),
+  ('tomllib._parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tomllib\\_parser.py',
+   'PYMODULE'),
+  ('tomllib._re',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tomllib\\_re.py',
+   'PYMODULE'),
+  ('tomllib._types',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tomllib\\_types.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\typing_extensions.py',
+   'PYMODULE'),
+  ('tzdata',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Africa',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\Africa\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.America',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\America\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.America.Argentina',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\America\\Argentina\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.America.Indiana',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\America\\Indiana\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.America.Kentucky',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\America\\Kentucky\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.America.North_Dakota',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\America\\North_Dakota\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Antarctica',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\Antarctica\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Arctic',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\Arctic\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Asia',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\Asia\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Atlantic',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\Atlantic\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Australia',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\Australia\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Brazil',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\Brazil\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Canada',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\Canada\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Chile',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\Chile\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Etc',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\Etc\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Europe',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\Europe\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Indian',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\Indian\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Mexico',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\Mexico\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Pacific',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\Pacific\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.US',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\tzdata\\zoneinfo\\US\\__init__.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib3',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\contrib\\emscripten\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.connection',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\contrib\\emscripten\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.fetch',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\contrib\\emscripten\\fetch.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.request',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\contrib\\emscripten\\request.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.response',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\contrib\\emscripten\\response.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.http2',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\http2\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.http2.connection',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\http2\\connection.py',
+   'PYMODULE'),
+  ('urllib3.http2.probe',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\http2\\probe.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'C:\\Users\\AndrewKang\\OneDrive - Eastside Catholic School\\CMU '
+   'Summer\\Volunteer-Opportunity-Downloader\\Volunteer-Opportunity-to-Padlet-Automation\\Untitled\\.build-deps-holidays\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\zipimport.py',
+   'PYMODULE'),
+  ('zoneinfo',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('zoneinfo._common',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\zoneinfo\\_common.py',
+   'PYMODULE'),
+  ('zoneinfo._tzpath',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\zoneinfo\\_tzpath.py',
+   'PYMODULE'),
+  ('zoneinfo._zoneinfo',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\zoneinfo\\_zoneinfo.py',
+   'PYMODULE')])
